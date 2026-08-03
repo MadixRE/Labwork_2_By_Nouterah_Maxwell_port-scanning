@@ -1,0 +1,8 @@
+```text
+__pycache__/
+*.pyc
+*.pcap
+*.env
+secrets.txt
+desktop.ini
+.vscode/

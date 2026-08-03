@@ -1,0 +1,2 @@
+All 3 files use the same procedure. When file is open, user must scroll down and find the section in the codes with the text "Target IP". When found, user must clear text after "=" and replace it with the Ip of the machine being scanned
+NB: They must be on the same network for this to work    
